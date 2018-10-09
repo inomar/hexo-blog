@@ -1,7 +1,7 @@
 ---
 title: Rubyで文字列から改行コードを削除する
 date: 2018-08-27 17:12:12
-tags: ['tech-blog', 'Ruby']
+tags: ['tech-log', 'Ruby']
 ---
 
 よく忘れてしまいがちなので、備忘録

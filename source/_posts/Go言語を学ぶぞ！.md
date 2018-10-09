@@ -1,7 +1,7 @@
 ---
 title: Go言語を学ぶぞ！
 date: 2018-07-31 17:13:52
-tags: ['tech-blog', 'Golang']
+tags: ['tech-log', 'Golang']
 ---
 
 昨日こんなツイートを目にしました。↓

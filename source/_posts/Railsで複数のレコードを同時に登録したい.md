@@ -1,7 +1,7 @@
 ---
 title: Railsで複数のレコードを同時に登録したい
 date: 2017-09-19 17:20:59
-tags: ['tech-blog', 'Rails']
+tags: ['tech-log', 'Rails']
 ---
 
 
