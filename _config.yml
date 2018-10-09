@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: origin
+theme: hexo-icer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +81,17 @@ deploy:
   type: git
   repo: git@github.com:inomar/hexo-blog.git
   branch: master
+
+# theme hexo-icer
+# Search
+search:
+  path: search.json
+  field: post
+
+## Commit
+#disqus:
+#  shortname: ggice
+
+#Config gitalk see https://github.com/gitalk/gitalk
+# gitalk:
+#   admin: ['GGICE']
