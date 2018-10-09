@@ -1,5 +1,5 @@
 ---
-title: reactを学んでみる①【環境構築~hello worldReact編】
+title: Reactを学んでみる①【環境構築~hello world編】
 date: 2017-12-19 17:17:40
 tags: ['tech-blog', 'React']
 ---
