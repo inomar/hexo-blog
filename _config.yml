@@ -5,8 +5,8 @@
 # Site
 title: 不定期更新症候群
 subtitle: 技術ログから雑記までいろいろ
-description:
-keywords:
+description: web系エンジニアの不定期更新な技術ブログです。RubyやReact、Goについて書いています。
+keywords: 不定期更新,エンジニア,ブログ,blog,Rails,Ruby,Go
 author: inomar
 language: ja
 timezone: Asia/Tokyo
