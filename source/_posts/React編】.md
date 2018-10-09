@@ -87,7 +87,7 @@ $ yarn add node-sass style-loader css-loader sass-loader import-glob-loader extr
 もろもろのインストールが済んだら`webpack`の設定をしていきます。
 プロジェクト直下に`webpack.config.js`を作成します。
 
-```
+```webpack.config.js
 const path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 

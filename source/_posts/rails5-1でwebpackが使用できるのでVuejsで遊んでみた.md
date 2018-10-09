@@ -1,6 +1,6 @@
 ---
-title: rails5.1でwebpackが使用できるのでVuejsで遊んでみた
-date: 2018-10-09 17:25:46
+title: Rails5.1でwebpackが使用できるのでVuejsで遊んでみた
+date: 2018-08-19 17:25:46
 tags: ['tech-log', 'Rails', 'Vue']
 ---
 
