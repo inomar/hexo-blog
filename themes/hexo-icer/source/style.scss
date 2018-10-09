@@ -1,0 +1,71 @@
+@import "./_scss/const";
+
+@font-face {
+  font-family: YuGothicM;
+  src: local("Yu Gothic Medium");
+}
+
+html {
+    font-size: 14px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN",メイリオ,Meiryo,sans-serif;
+}
+
+@media all and (-ms-high-contrast: none)  {
+    html {
+        font-family: Verdana, Meiryo, sans-serif;
+    }
+}
+
+@media all and (-ms-high-contrast: active) {
+    html {
+        font-family: Verdana, Meiryo, sans-serif;
+    }
+}
+
+body {
+  background-color: $white1;
+  color: $default-color;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;  
+}
+
+ul,li {
+  margin: 0;
+  padding: 0;
+}
+
+.highlight, pre {
+  overflow: auto;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+  border-bottom: 0px;
+  display: inline-block;
+  position: relative;
+  transition: $transition; 
+
+  &:hover {
+    color: $blue1;
+  }
+}
+
+@import "./_scss/header";
+@import "./_scss/loading";
+@import "./_scss/post";
+@import "./_scss/article";
+@import "./_scss/page";
+@import "./_scss/page-nav";
+@import "./_scss/footer";
+@import "./_scss/content";
+@import "./_scss/archive";
+@import "./_scss/social";
+@import "./_scss/search";
+@import "./_scss/animation";
