@@ -89,12 +89,12 @@ search:
   field: post
 
 ## Commit
-#disqus:
-#  shortname: ggice
+disqus:
+ shortname: bu-ding-qi-geng-xin-zheng-hou-qun
 
 #Config gitalk see https://github.com/gitalk/gitalk
-gitalk:
-  admin: ['inomar']
+# gitalk:
+#   admin: ['inomar']
 
 feed:
   type: atom
