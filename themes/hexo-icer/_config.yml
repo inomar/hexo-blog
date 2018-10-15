@@ -24,9 +24,9 @@ navigation:
   url: /about
 
 # Friendly link
-# links:
-#   - name: 
-#     url: 
+links:
+  - name: コメントポリシー
+    url: /comment-policy
 
 # Social account
 social:
